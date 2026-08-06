@@ -47,6 +47,6 @@ I am interested in Data Science, Machine Learning, Computer Vision, and Healthca
 - **LinkedIn:** https://www.linkedin.com/in/maadhesh-palaniappan-3ab5781bb/
 ---
 
-*Open to Data Science, Machine Learning, AI, Computer Vision, and Software Engineering Werkstudent or internship opportunities in Germany.
+Open to Data Science, Machine Learning, AI, Computer Vision, and Software Engineering Werkstudent or internship opportunities in Germany.
 
 
