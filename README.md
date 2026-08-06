@@ -49,4 +49,4 @@ I am interested in Data Science, Machine Learning, Computer Vision, and Healthca
 
 *Open to Data Science, Machine Learning, AI, Computer Vision, and Software Engineering Werkstudent or internship opportunities in Germany.
 
-*
+
